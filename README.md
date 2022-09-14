@@ -45,7 +45,7 @@ h3{
     <p>Enzo: He picked me out of a pile of pups, a tangled mass of paws and tails. He'd stopped at the farm on his way home from the speedway at Yakima. Even back then, I knew I was different than other dogs. My soul just felt more human.</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Dp2ufFO4QGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
    
- 
+ <p>Chanice geeft deze film 5 sterren</p>
    
    
 </body>
