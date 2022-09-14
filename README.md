@@ -38,7 +38,7 @@ h3{
 
     <h2> Meet the Dog Who Will Show the World How to Be Human</h2>
     <h3> About the movie </h3> 
-    <img src="The art of racing in the rain.jpg">
+    <img src="img/The art of racing in the rain.jpg">
     <p>In death basket flashbacks, doting golden retriever Enzo tells his wonderful life with devoted owner Denny, a talented aspiring Formula One race car driver, who put his racing dream back to marry Eve and raise their daughter Zoe. Only after Eve dies in a tragic accident and a bitter custody case against Denny by her rich parents, he accepts a test driver job in Ferrari's Milan HQ. By then, inseparable Enzo is so sick he can only enjoy a first and last ride in Denny's stat of the art F1 car, confident he'll be reborn as a budding racer, as apparently happens eight years later.</p>
 
     <h3> A Quote from the movie </h3> 
